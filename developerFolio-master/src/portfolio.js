@@ -267,6 +267,20 @@ const achievementSection = {
         }
       ]
     }
+    ,
+    {
+  title: "AWS API Gateway",
+  subtitle: "Completed certification on AWS API Gateway – learned API creation, deployment, and integration with Lambda",
+  image: require("./assets/images/aws.png"),
+  imageAlt: "AWS Logo",
+  footerLink: [
+    {
+      name: "certificate",
+      url: "https://drive.google.com/file/d/1i34w4GTiS43KfJZmHOAx5wr_Nv1YSVwb/view?usp=sharing"
+    }
+  ]
+}
+
   ],
   display: true // Set false to hide this section, defaults to true
 };
