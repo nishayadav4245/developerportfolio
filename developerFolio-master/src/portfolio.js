@@ -271,7 +271,7 @@ const achievementSection = {
     {
   title: "AWS API Gateway",
   subtitle: "Completed certification on AWS API Gateway – learned API creation, deployment, and integration with Lambda",
-  image: require("./assets/images/aws.png"),
+  image: require("./assets/images/aws-color.png"),
   imageAlt: "AWS Logo",
   footerLink: [
     {
